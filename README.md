@@ -14,4 +14,6 @@
 
 不配置bat的话你将会直接运行直接结束，因为检查到了昨天的日志
 
+[具体bat内容](<https://github.com/miaojiuqing/MAS_AALC/blob/main/delete_user_log.bat>)
+
 ![最终配置界面](docs/phone/最终配置界面.png)
