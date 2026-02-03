@@ -2,9 +2,9 @@
 
 ## 若你是搜索AALC或者MAS——atuo的话，你找错地方了，对此我感到抱歉,以下为AALC和MAS——atuo的Github仓库
 
-    AALC：https://github.com/KIYI671/AhabAssistantLimbusCompany
+[AALC](<https://github.com/KIYI671/AhabAssistantLimbusCompany>)
 
-    MAS_—atuo：https://github.com/AUTO-MAS-Project/AUTO-MAS
+[MAS_—atuo](<https://github.com/AUTO-MAS-Project/AUTO-MAS>)
 
 ## 用MAS运行AALC时需要添加的bat文件，具体操作看如下文档
 
