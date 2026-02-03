@@ -1,6 +1,6 @@
 @echo off
 rem 此脚本运行时会删除同级目录下的user.log
-cd /d "%～dp0"
+cd /d "%~dp0"
 
 set "LOGFILE=user.log"
 echo wantdelete: "%LOGFILE%"
