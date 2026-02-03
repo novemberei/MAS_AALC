@@ -4,7 +4,7 @@
 
 [AALC](<https://github.com/KIYI671/AhabAssistantLimbusCompany>)
 
-[MAS_—atuo](<https://github.com/AUTO-MAS-Project/AUTO-MAS>)
+[Auto_MAS](<https://github.com/AUTO-MAS-Project/AUTO-MAS>)
 
 ## 用MAS运行AALC时需要添加的bat文件，具体操作看如下文档
 
