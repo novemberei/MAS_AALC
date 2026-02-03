@@ -12,4 +12,6 @@
         不会的话请 
 [阅读MAS官方文档](<https://doc.auto-mas.top/docs/script-guide/general.html>)
 
+不配置bat的话你将会直接运行直接结束，因为检查到了昨天的日志
+
 ![最终配置界面](docs/phone/最终配置界面.png)
