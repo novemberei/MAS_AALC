@@ -1,8 +1,8 @@
 @echo off
-rem 此脚本运行时会删除同级目录下的user.log
+rem 此脚本运行时会删除同级目录下的debugLog.log
 cd /d "%~dp0"
 
-set "LOGFILE=user.log"
+set "LOGFILE=debugLog.log"
 echo wantdelete: "%LOGFILE%"
 
 if not exist "%LOGFILE%" (
@@ -21,4 +21,5 @@ if exist "%LOGFILE%" (
 )
 
 timeout /t 3 /nobreak >nul
+
 exit
